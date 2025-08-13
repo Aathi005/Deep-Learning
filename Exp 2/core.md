@@ -20,3 +20,4 @@ model.fit(X_train, y_train, epochs=5, batch_size=32, validation_data=(X_test,
 y_test))
 
 Output:
+<img width="1114" height="246" alt="Screenshot 2025-08-13 110413 (4)" src="https://github.com/user-attachments/assets/d54376a6-8f6b-421c-8ed1-a533196a490f" />
